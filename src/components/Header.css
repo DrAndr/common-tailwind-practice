@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+.header {
+
+}
+.header ul{
+
+}
+
+.header ul > li {
+    @apply float-left text-red-600 px-4;
+}

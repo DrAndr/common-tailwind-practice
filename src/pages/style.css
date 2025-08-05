@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.gallery_wrap > div{
+  @apply bg-orange-500 min-h-50 w-full hover:translate-1 transition-transform duration-300 border-4 border-red-200 rounded-xl hover:shadow-2xl hover:shadow-gray-900/50;
+}
